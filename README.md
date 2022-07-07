@@ -2,7 +2,8 @@
 Contains all Machine Learning Models
 # 1)Bank Customer Churn Predictor
     -Predicting whether Customer would Churn or Not seeing past datas Of other Customers
-    -Model used is Logistic Regressor
+    -Model used is Logistic Regressor,Decision Tree
+
     -Since Churn Data is heavily imbalanced prediction is Biased at Threshold 0.5
     -after Certain Thresholding Model Started giving better results
 ![Screenshot (16)](https://user-images.githubusercontent.com/102205233/177284947-9ceb28fe-28f6-4265-af4e-c76f980c387b.png)
