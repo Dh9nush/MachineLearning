@@ -19,7 +19,28 @@ Contains all Machine Learning Models
 ![Screenshot (19)](https://user-images.githubusercontent.com/102205233/177285107-9b7d8d30-2e7d-4b57-bbeb-01d775f2af7d.png)
 
     -Conclusion:to get higher Recall  we are decreasing Threshold value and trading of precision value ,while also accuracy of model remains constants uptill certain threhsold,since Churn data is heavly biased that is 80:20 percentage ,it is totally upto business decision to choose Threshold value
- 
+    
+    
+    
+   
+# 2) NyCTaxi_Trip_Time_Project
+    - Predicting ride time taken by trips to check availibity of taxi in Newyork center
+    - Exploratery data Analysis Results
+![Screenshot (23)](https://user-images.githubusercontent.com/102205233/178106459-99704945-e12d-48ac-891b-c5123416db2d.png)
+![Screenshot (24)](https://user-images.githubusercontent.com/102205233/178106387-e9a3fea2-399b-4956-8a51-eaadd1dbc02d.png)
+![Screenshot (25)](https://user-images.githubusercontent.com/102205233/178106393-7cb44329-9440-474c-84b2-1cb551185af8.png)
+    - Correlation Heatmap
+![Screenshot (26)](https://user-images.githubusercontent.com/102205233/178106399-4e599417-62db-4ca1-aed9-b5923ac67fb0.png)
+    - Heatmap Map of Heavysites of trips takes place
+![Screenshot (27)](https://user-images.githubusercontent.com/102205233/178106408-cdb5c3b3-8567-4901-89d3-5a6ab8caa752.png)
+
+
+
+Conclusion: LinearRegresser Model Perform kinda Low then Decision Tree has data has high non  linearity in between data sets
+![Screenshot (28)](https://user-images.githubusercontent.com/102205233/178106349-917f5eb4-876c-4993-a642-ae0937c16cf2.png)
+
+
+    -
 
 
 
