@@ -47,7 +47,6 @@ Conclusion: LinearRegresser Model Perform kinda Low then Decision Tree has data 
 ![Screenshot (30)](https://user-images.githubusercontent.com/102205233/180636857-0c55287a-417c-4ee9-9c0c-f16a184448b2.png)
 ![Screenshot (33)](https://user-images.githubusercontent.com/102205233/180636851-bba56a09-1195-49ce-8ba5-04c64ca41d3a.png)
 ![Screenshot (32)](https://user-images.githubusercontent.com/102205233/180636861-c709f97c-bb39-4be7-82fc-8cfe61ae9f64.png)
-![Screenshot (35)](https://user-images.githubusercontent.com/102205233/180636865-2c2ffada-a3b7-4148-970d-c20b0dcb61ac.png)
 ![Screenshot (31)](https://user-images.githubusercontent.com/102205233/180636866-d21e8959-ac46-4459-bc8f-5d0e85027570.png)
    - Models used : LogisticRegression ,Decision Tree,RandomForest,SVM,KNN
 ![Screenshot (35)](https://user-images.githubusercontent.com/102205233/180636907-e658fa5c-1ce8-4eac-a6a9-4f6a0050577b.png)
